@@ -5,6 +5,7 @@ author = "整理者:暮星(1009592348) 编写者:一云(3443952316) 插图版本
 date = 2023-09-25
 version = "1.2"
 update_urls = [
+    "https://ghproxy.com/https://raw.githubusercontent.com/MX-fox/draw/main/%E9%AA%B0%E5%A8%98%E5%AF%BB%E8%AE%BF.toml",
     "https://raw.githubusercontent.com/MX-fox/draw/main/%E9%AA%B0%E5%A8%98%E5%AF%BB%E8%AE%BF.toml",
 ]
 
