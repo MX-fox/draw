@@ -1,0 +1,30 @@
+# 元信息
+[meta]
+title = "骰娘寻访"
+author = "整理者:暮星(1009592348) 编写者:一云(3443952316) 插图版本:莫一(1280432720)骰子提供:所有参与的master(如有需要加入，请联系编写者)"
+date = 2023-09-25
+version = "1.2"
+update_urls = [
+    ""
+]
+
+
+# 复杂牌组
+["骰娘寻访"]
+# 是否导出
+export = true
+# key是否可见
+visible = true
+# 别名
+aliases = ["随机骰娘寻访"]
+# 本地选项
+
+# 开启云内容
+cloud_extra = true
+# 云内容与本地内容去重
+dictinct = true
+# 云内容链接
+options_urls = [
+    "https://ghproxy.com/https://raw.githubusercontent.com/MX-fox/draw/main/%E9%AA%B0%E5%A8%98%E5%AF%BB%E8%AE%BF%20.json",
+    "https://raw.githubusercontent.com/MX-fox/draw/main/%E9%AA%B0%E5%A8%98%E5%AF%BB%E8%AE%BF%20.json",
+]
