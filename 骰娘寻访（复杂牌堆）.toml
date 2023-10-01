@@ -5,9 +5,9 @@ author = "整理者:暮星(1009592348) 编写者:一云(3443952316) 插图版本
 date = 2023-10-01
 version = "1.3"
 update_urls = [
+    "https://ghproxy.com/https://raw.githubusercontent.com/MX-fox/draw/main/%E9%AA%B0%E5%A8%98%E5%AF%BB%E8%AE%BF%EF%BC%88%E5%A4%8D%E6%9D%82%E7%89%8C%E5%A0%86%EF%BC%89.toml",
     "https://raw.githubusercontent.com/MX-fox/draw/main/%E9%AA%B0%E5%A8%98%E5%AF%BB%E8%AE%BF%EF%BC%88%E5%A4%8D%E6%9D%82%E7%89%8C%E5%A0%86%EF%BC%89.toml",
-    "https://ghproxy.com/https://raw.githubusercontent.com/MX-fox/draw/main/%E9%AA%B0%E5%A8%98%E5%AF%BB%E8%AE%BF%EF%BC%88%E5%A4%8D%E6%9D%82%E7%89%8C%E5%A0%86%EF%BC%89.toml"
-]
+    ]
 
 [decks]
  "随机骰娘寻访" = ["随着600个神秘玉石的消失，漆黑的包裹里透露出光芒\n#{DRAW-骰娘寻访}",]
