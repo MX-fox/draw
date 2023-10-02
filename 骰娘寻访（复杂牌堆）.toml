@@ -19,7 +19,7 @@ update_urls = [
 # 复杂牌组
 ["骰娘寻访"]
 # 是否导出
-export = true
+export = false
 # key是否可见
 visible = false
 # 开启云内容
