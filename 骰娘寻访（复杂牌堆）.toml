@@ -19,7 +19,7 @@ update_urls = [
 # 复杂牌组
 ["骰娘寻访"]
 # 是否导出
-export = false
+export = true
 # key是否可见
 visible = false
 # 开启云内容
@@ -38,7 +38,7 @@ options_urls = [
 # 复杂牌组
 ["海豹"]
 # 是否导出
-export = false
+export = true
 # key是否可见
 visible = false
 # 开启云内容
@@ -51,7 +51,7 @@ options_urls = ["https://ghproxy.com/https://raw.githubusercontent.com/MX-fox/dr
 # 复杂牌组
 ["惠惠"]
 # 是否导出
-export = false
+export = true
 # key是否可见
 visible = false
 # 开启云内容
@@ -64,7 +64,7 @@ options_urls = ["https://ghproxy.com/https://raw.githubusercontent.com/MX-fox/dr
 # 复杂牌组
 ["溯洄"]
 # 是否导出
-export = false
+export = true
 # key是否可见
 visible = false
 # 开启云内容
@@ -77,7 +77,7 @@ options_urls = ["https://ghproxy.com/https://raw.githubusercontent.com/MX-fox/dr
 # 复杂牌组
 ["青果"]
 # 是否导出
-export = false
+export = true
 # key是否可见
 visible = false
 # 开启云内容
